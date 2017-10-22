@@ -3,7 +3,7 @@ body {
     -webkit-text-size-adjust: 100%;
     line-height: 1.5;
     color: #333;
-    font-family: -apple-system, BlinkMacSystemFont, Monaco, Consolas, "Source Han Sans SC", "Microsoft Yahei", "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family: -apple-system, BlinkMacSystemFont, Arial, Helvetica, sans-serif, Consolas, "Source Han Sans SC", "Microsoft Yahei", "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol";
     font-size: 16px;
     line-height: 1.5;
     word-wrap: break-word;
@@ -299,14 +299,14 @@ dd {
 }
 
 code {
-    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    font-family: Monaco, Consolas, "Liberation Mono", Menlo, Courier, monospace;
     font-size: 12px;
 }
 
 pre {
     margin-top: 0;
     margin-bottom: 0;
-    font: 12px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    font: 12px Monaco, Consolas, "Liberation Mono", Menlo, Courier, monospace;
 }
 
 .octicon {
@@ -641,7 +641,7 @@ pre code::after {
 kbd {
     display: inline-block;
     padding: 3px 5px;
-    font: 11px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    font: 11px Monaco, Consolas, "Liberation Mono", Menlo, Courier, monospace;
     line-height: 10px;
     color: #555;
     vertical-align: middle;
